@@ -1,5 +1,5 @@
 import { useContext, useState } from "react"
-import { Context } from "./context";
+import { Context } from "./Context";
 function App() {
    const [count, setCount] = useState(0);
 
